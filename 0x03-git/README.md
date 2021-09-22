@@ -1,1 +1,1 @@
-Hello School
+This is a readme
